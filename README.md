@@ -194,6 +194,7 @@ application_path = os.path.dirname(sys.executable)
 
 ## 👤 Author - Aryan 
 ```
-Python • Selenium • Automation • Windows Scheduling
+Python • Selenium • Xpath • Subprocess • pyinstaller • Automation • Windows Scheduling 
+
 
 ```
